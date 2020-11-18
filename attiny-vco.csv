@@ -1,0 +1,25 @@
+Ref,Value,Footprint,Description
+C1,10u,Capacitor_SMD:CP_Elec_4x5.4,Polarized capacitor
+C2,330n,Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Unpolarized capacitor
+C3,100n,Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Unpolarized capacitor
+C4,100n,Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Unpolarized capacitor
+C5,10u,Capacitor_SMD:CP_Elec_4x5.4,Polarized capacitor
+C6,100n,Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Unpolarized capacitor
+CV1,B10k,Eurocad:Alpha9mmPot,Potentiometer
+D1,D,Diode_SMD:D_SOD-323_HandSoldering,Diode
+IN1,PJ301M-12,Eurocad:PJ301M-12,
+J1,EURO_PWR_2x5,Eurocad:EURO-POWER,
+OUT1,PJ301M-1,Eurocad:PJ301M-12,
+R1,22R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+R2,10k,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+R3,22k,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+R4,22k,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+R5,22k,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+R6,1k,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+R7,1k,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+R8,22k,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,Resistor
+SW1,SWITCH-SUBMIN,eurorack-parts:SUBMIN-SWITCH,
+TUNE1,B10k,Eurocad:Alpha9mmPot,Potentiometer
+U1,7805_PINS,eurorack-parts:TO-92_HandSolder,Linear Regulator +5V
+U2,ATtiny85-20PU,Package_DIP:DIP-8_W7.62mm_Socket,
+WAVE1,B10k,Eurocad:Alpha9mmPot,Potentiometer
